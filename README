@@ -1,2 +1,3 @@
 CryptoCreds-
-A CLI utility to encrypt and decrypt the credentials used in a script.
+
+A CLI utility to encrypt and decrypt the credentials used in a script. Can also encrypt and Decrypt the entire script.
